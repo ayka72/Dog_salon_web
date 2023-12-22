@@ -9,8 +9,8 @@ body {
 
 nav {
     overflow: hidden;
-    background-color: #2c7136;
-    margin: 0px -8px 0px -10px;
+    background-color: #343434;
+    margin: -8px -6px -40px -10px;
 }
 
 ul {
@@ -93,7 +93,7 @@ button {
 }
 
 button a {
-    color: #72ff8a;
+    color: #ffffff;
     font-size: 40px;
 
     padding: 15px;
@@ -102,9 +102,8 @@ button a {
 }
 
 button:hover {
-    -webkit-box-shadow: 0px 0px 31px 6px rgba(0, 150, 23, 1);
-    -moz-box-shadow: 0px 0px 31px 6px rgba(0, 150, 23, 1);
-    box-shadow: 0px 0px 31px 6px rgba(0, 150, 23, 1);
+    -moz-box-shadow: 0px 0px 36px -5px rgba(0, 255, 170, 1);
+    box-shadow: 0px 0px 36px -5px rgba(0, 255, 170, 1);
     transition: 1s;
 }
 hr{
